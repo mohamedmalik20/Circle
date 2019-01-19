@@ -29,13 +29,15 @@ margin-left: 800px;
 	
 }
 .nav-link
-{color: white;
-font-family: 'Cinzel', serif;}
+{
+	color: white;
+    font-family: 'Cinzel', serif;
+}
 .nav-link:hover
 {
 color:silver;
 }
-@media only screen and (max-width: 2000px) 
+@media only screen and (max-width: 360px) 
 {
 	.justify-content-end{
 		margin-left: 50px;
