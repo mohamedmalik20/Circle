@@ -35,7 +35,7 @@ font-family: 'Cinzel', serif;}
 {
 color:silver;
 }
-@media only screen and (max-width: 800px) 
+@media only screen and (max-width: 360px) 
 {
 	.justify-content-end{
 		margin-left: 50px;
