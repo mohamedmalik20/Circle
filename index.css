@@ -29,7 +29,7 @@ margin-left: 800px;
 	
 }
 .nav-link
-{color: black;
+{color: white;
 font-family: 'Cinzel', serif;}
 .nav-link:hover
 {
@@ -47,6 +47,7 @@ color:silver;
 	}
 	.nav-link{
 		font-size: 13px;
+	color:black;
 	}
 	.header{
 		margin-left: 10px;
