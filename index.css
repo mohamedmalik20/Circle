@@ -38,7 +38,7 @@ margin-left: 800px;
 color:silver;
 }
 @media screen and
-	(max-width: 800px) 
+	(max-width: 600px) 
 {
 	.justify-content-end{
 		margin-left: 50px;
