@@ -1,0 +1,50 @@
+body
+{
+	background: url(back.jpg);
+	 background-size: cover;
+	 overflow: hidden;
+}
+.header
+{
+margin-left: 90px;
+	margin-top: -60px;
+	color:white;
+	font-style:bold;
+	font-size: 35px;
+font-family: 'Domine', serif;
+}
+.nav-item
+{
+	padding: 9px;
+}
+
+.justify-content-end
+{
+margin-left: 800px;
+}
+.navbar
+{
+	display: flex;
+	
+}
+.nav-link
+{color: white;
+font-family: 'Cinzel', serif;}
+.nav-link:hover
+{
+color:silver;
+}
+@media only screen and (max-width: 600px) 
+{
+	.justify-content-end{
+		margin-left: 50px;
+	}
+	.nav-item
+	{
+		padding: 10px;
+	}
+	.nav-link{
+		font-size: 13px;
+	}
+}
+
