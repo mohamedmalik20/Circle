@@ -43,10 +43,10 @@ color:silver;
 	.nav-item
 	{
 		padding: 5px;
-		margin-left: 20px;
+		margin-left: 40px;
 	}
 	.nav-link{
-		font-size: 13px;
+		font-size: 16px;
 		color:black;
 	}
 	.header{
@@ -54,7 +54,7 @@ color:silver;
 	margin-top: -45px;
 	color:white;
 	font-style:bold;
-	font-size: 20px;
+	font-size: 30px;
 font-family: 'Domine', serif;
 	}
 }
