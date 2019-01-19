@@ -37,7 +37,10 @@ margin-left: 800px;
 {
 color:silver;
 }
-@media only screen and (max-width: 400px) 
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
 {
 	.justify-content-end{
 		margin-left: 50px;
